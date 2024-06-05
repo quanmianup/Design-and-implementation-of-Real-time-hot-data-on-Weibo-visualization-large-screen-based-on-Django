@@ -4,7 +4,7 @@
 
 ## 1. 涉及工具及技术 ##
 
-  pycharm、Python3.11、mysql8.0、Hbase、使用技术：Vue、jQuery、ECharts、pandas、scrapy|requests、selenium、Django
+  pycharm、Python3.11、mysql8.0、Hbase、Vue、jQuery、ECharts、pandas、scrapy|requests、selenium、Django
 
 ## 2. 要求 ##
 
