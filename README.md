@@ -1,9 +1,10 @@
 # 基于Django的微博实时热点数据可视化大屏的设计与实现 #
-毕业设计项目
+
+本科毕业设计项目
 
 ## 1. 涉及工具及技术 ##
 
-  pycharm、Python3.11、mysql8.0、使用技术：Vue、jQuery、ECharts、pandas、scrapy|requests、selenium、Django
+  pycharm、Python3.11、mysql8.0、Hbase、使用技术：Vue、jQuery、ECharts、pandas、scrapy|requests、selenium、Django
 
 ## 2. 要求 ##
 
